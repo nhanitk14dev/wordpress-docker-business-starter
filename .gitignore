@@ -1,0 +1,12 @@
+# Ignore sensitive environment variables
+.env
+
+# Ignore WordPress core files
+wordpress/
+
+# Ignore OS/system files
+.DS_Store
+Thumbs.db
+
+# Ignore uploads/media
+wordpress/wp-content/uploads/
